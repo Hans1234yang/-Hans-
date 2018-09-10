@@ -20,6 +20,10 @@ namespace 观察者模式1
             Console.ReadLine();
         }
     }
+    //此时订阅者依赖公众号
+    //公众号也依赖订阅者
+    
+
     ///订阅者
     public class User
     {
