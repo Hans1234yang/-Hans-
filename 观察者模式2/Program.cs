@@ -19,7 +19,7 @@ namespace 观察者模式2
             //订阅者 更新
             account.Update();
 
-            Console.WriteLine();
+            Console.ReadLine();
 
         }
     }
