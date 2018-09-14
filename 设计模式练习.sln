@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "状态者模式1", "状态�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "策略者模式1", "策略者模式1\策略者模式1.csproj", "{A60D8FE2-5EB5-4FBC-A5F1-E706D5BDC85B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰器模式1", "装饰器模式1\装饰器模式1.csproj", "{A500A0A4-7DF7-438E-A148-3F646BE04479}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A60D8FE2-5EB5-4FBC-A5F1-E706D5BDC85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60D8FE2-5EB5-4FBC-A5F1-E706D5BDC85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60D8FE2-5EB5-4FBC-A5F1-E706D5BDC85B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A500A0A4-7DF7-438E-A148-3F646BE04479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A500A0A4-7DF7-438E-A148-3F646BE04479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A500A0A4-7DF7-438E-A148-3F646BE04479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A500A0A4-7DF7-438E-A148-3F646BE04479}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
